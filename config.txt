@@ -47,7 +47,7 @@
  * 4. Select the User Rights Assignment folder.
  * 5. The policies will be displayed in the details pane.
  * 6. In the pane, double-click Lock pages in memory.
- * 7. In the Local Security Setting – Lock pages in memory dialog box, click Add User or Group.
+ * 7. In the Local Security Setting â€“ Lock pages in memory dialog box, click Add User or Group.
  * 8. In the Select Users, Service Accounts, or Groups dialog box, add an account that you will run the miner on
  * 9. Reboot for change to take effect.
  *
@@ -112,8 +112,8 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "monerohash.com:3333",
-"wallet_address" : "46ssLyrDydxWtvP9Y3hNYTgQFCFrh33x9U3cuEDUBdgma6x2dXeYGv7WdbJGXDvDdpQ3CxkCDp6STXJFDVxYs9gsAASUF51",
+"pool_address" : "etn.fairhash.org:3333",
+"wallet_address" : "etnkNz6Xc6WifzFh4A9zMHUTGrsnvUxtcN2ksXQjSoQK9AYEHFsmdqqh5ZBUbLK3m1Zt9FFdKPn5RMkdozuHj1EC1VV7n2jp2f",
 "pool_password" : "x",
 
 /*
