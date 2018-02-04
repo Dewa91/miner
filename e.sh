@@ -18,7 +18,7 @@ sleep 1
 make install
 cd bin/
 rm -rf config.txt
-wget 
+wget https://raw.githubusercontent.com/dewaantara/miner/master/config.txt
 chmod +x xmr-stak-cpu
 sysctl -w vm.nr_hugepages=128
 
