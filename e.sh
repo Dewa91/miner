@@ -13,7 +13,7 @@ apt-get --assume-yes install libmicrohttpd-dev libssl-dev cmake build-essential 
 #setup xmr-stak-cpu mining
 git clone https://github.com/fireice-uk/xmr-stak-cpu.git
 cd xmr-stak-cpu
-cmake -DMICROHTTPD_ENABLE=OFF
+cmake .
 make install
 cd bin/
 rm -rf config.txt
